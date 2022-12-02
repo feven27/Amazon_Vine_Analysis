@@ -21,13 +21,11 @@ PostgresSQL
 For my Analysis, I chose to work in Health Personal Care. 
 
 # Result 
+The following are total reviews: 
+![Reviews.png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/Reviews.png)
 
-![paid .png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/paid%20.png)
+![Reviews ll.png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/Reviews%20ll.png)
 
-![unpaid.png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/unpaid.png)
-
-![]()
-
-# Summary
+![Reviewslll.png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/Reviewslll.png)
 
 
