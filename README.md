@@ -22,7 +22,7 @@ For my Analysis, I chose to work in Health Personal Care.
 
 # Result 
 
-[paid .png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/paid%20.png)
+![paid .png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/paid%20.png)
 
 # Summary
 
