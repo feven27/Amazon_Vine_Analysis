@@ -1,4 +1,4 @@
-# Add Image
+# ![AWS IMAGE.webp](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/AWS%20IMAGE.webp)
 
 # Amazon_Vine_Analysis
 
@@ -23,6 +23,10 @@ For my Analysis, I chose to work in Health Personal Care.
 # Result 
 
 ![paid .png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/paid%20.png)
+
+![unpaid.png](https://github.com/feven27/Amazon_Vine_Analysis/blob/main/image/unpaid.png)
+
+![]()
 
 # Summary
 
